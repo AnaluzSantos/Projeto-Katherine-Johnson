@@ -1,0 +1,28 @@
+.container{
+    background-color: palevioletred;
+    width: 900px;
+}
+
+.nav{
+    background-color: burlywood;
+    padding: 1rem;
+    }
+
+.nav-item{
+    color: #fff;
+    padding: 0.8rem;
+    font-weight: bold;
+    text-decoration: none; 
+}
+
+main{
+    color: #fff;
+}
+
+footer p{
+    color: #fff;
+    text-align: center;
+}
+.itatxt{
+    font-style: italic;
+}
